@@ -1,4 +1,7 @@
-# Testimonials Grid Section
+<h1 align="center">Testimonials Grid Section</h1>
+<p align="center">
+  Coded with <code>HTML</code>, <code>CSS</code>
+</p>
 
 <p align="center">
   <img src="./images/solution/solution-wide.jpg" width="100%">
